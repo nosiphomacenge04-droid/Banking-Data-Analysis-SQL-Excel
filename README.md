@@ -160,7 +160,7 @@ Excel was used to:
 - Present findings visually.
 
 ### Excel Dashboard
-![Banking Data Analysis Dashboard](./Screenshots/14_excel_dashboard.png)
+![Banking Data Analysis Dashboard](14_excel_dashboard.png)
 
 ## Project Workflow
 The project followed the following workflow:
