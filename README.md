@@ -146,7 +146,7 @@ Customers were classified into low, medium, and high balance categories using a 
 ## SQL Dashboard View
 A reusable SQL view named `vw_Dashboard` was created by combining transaction, branch, and customer information.
 The view was designed to provide a consolidated dataset that could be used for further dashboard analysis.
-[View SQL view result](./Screenshots/13_dashboard_view.png)
+[View SQL view result](14_dashboard_view.png)
 
 ## Excel Analysis & Dashboard
 Selected SQL results were exported to Microsoft Excel for further exploration.
