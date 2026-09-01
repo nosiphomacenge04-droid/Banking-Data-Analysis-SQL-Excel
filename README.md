@@ -148,7 +148,7 @@ Excel was used to:
 The Excel results were used to create a dashboard that visually presents the banking analysis. The dashboard provides a visual way to explore the results and identify patterns in customer accounts, branches, balances, and transaction activity.
 
 ### Excel Dashboard
-![Banking Data Analysis Dashboard](banking_dashboard.png)
+![Banking Data Analysis Dashboard](banking_Dashboard.png)
 
 ## Project Workflow
 The project followed the following workflow:
@@ -201,18 +201,3 @@ The project followed the following workflow:
 ## Tools Used
 - **SQL Server / SQL** — database creation, relational database design, querying, and analysis
 - **Microsoft Excel** — data exploration, PivotTables, charts, and dashboard development
-
-## Repository Contents
-```text
-Banking-Data-Analysis-SQL-Excel
-│
-├── README.md
-│
-├── SQL
-│   └── banking_analysis.sql
-│
-├── Excel
-│   └── Banking_Analysis.xlsx
-│
-└── Screenshots
-    └── Banking_Dashboard.png
